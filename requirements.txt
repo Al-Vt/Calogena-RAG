@@ -8,4 +8,7 @@ ipykernel==7.2.0
 pgvector==0.5.1
 psycopg==3.3.6
 psycopg-binary==3.3.6
-python-dotenv==1.2.2
+python-dotenv==1.2.4
+fastapi==0.143.0
+uvicorn==0.54.0
+mistralai==3.2.0
